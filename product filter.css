@@ -80,3 +80,14 @@ body{
 	padding: 0px 10px;
 	font-size: 0.6rem;
 }
+@media (min-width:480px)  {
+ 	.btn-grp button{
+ 		width: 70px;
+ 		height: 20px;
+ 		font-size: 0.4rem;
+ 	}
+ 	.container.box img{
+ 		height: 50%;
+ 		width: 50%;
+ 	}
+ }
